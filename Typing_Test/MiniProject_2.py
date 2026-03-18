@@ -37,7 +37,6 @@ def typing_test ():
     accuracy = measure_accuracy(user_input, test_sentence)
     print(f"Accuracy: {accuracy:.2f}%")
 
-
 typing_test()
 
 

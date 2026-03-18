@@ -1,27 +1,34 @@
-# 🐍 Snake Water Gun Game (Python)
 
-A simple **Snake Water Gun game** built using Python.  
-This is a command-line game where the user plays against the computer.
+# 🐍 Python Mini Projects Collection
 
-The computer randomly chooses Snake, Water, or Gun, and the user inputs their choice.  
-The winner is decided based on the rules of the game.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Projects](https://img.shields.io/badge/Projects-Mini%20Projects-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
----
+This repository contains a collection of **beginner-friendly Python mini projects** created while learning Python programming.
 
-## 🎮 Game Rules
+The purpose of this repository is to **practice Python concepts, build logic, and create small real-world projects**.
 
-- Snake 🐍 drinks Water 💧 → **Snake wins**
-- Gun 🔫 kills Snake 🐍 → **Gun wins**
-- Water 💧 damages Gun 🔫 → **Water wins**
-- Same choice → **Draw**
+Each project is organized in its own folder with a separate **README.md** explaining the project.
 
 ---
 
-## 🛠 Technologies Used
+## 📂 Repository Structure
 
-- Python
-- Random Module
+```bash
+Python_Projects
+│
+├── Snake-Water-Gun-Game
+│   ├── snake_water_gun.py
+│   └── README.md
+│
+├── Typing-Speed-Test
+│   ├── typing_speed_test.py
+│   └── README.md
+│
+└── README.md
+```
 
 ---
 
-## 📂 Project Structure
+## 🚀 Projects
